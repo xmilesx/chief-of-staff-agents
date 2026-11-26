@@ -1,6 +1,6 @@
 # chief-of-staff-agents
 
-A template for running a one-person business with a staff of AI agents, built inside Claude. You talk to one chat, the Chief of Staff. Behind it, scheduled agents build, review, budget and deliver, and nothing ships until a separate reviewer has checked it.
+A template for running a business with a staff of AI agents, built inside Claude. You talk to one chat, the Chief of Staff. Behind it, scheduled agents build, review, budget and deliver, and nothing ships until a separate reviewer has checked it.
 
 I built this to run an education product business and my daily operations, so I could work long hours from home with a young child. This repo is the system with everything personal removed: the roles, the rules, the record, the daily schedule and the job prompts.
 
